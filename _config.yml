@@ -5,9 +5,9 @@ description: Design-minded front-end software engineer focused on building beaut
 url: https://patricknugros.com/
 baseurl: ''
 email: mail@patricknugros.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+cover: https://patricknugros.com/img/og.png
+logo: https://patricknugros.com/img/emojis/technologist.png
+resume: https://docs.google.com/document/d/1RkqY0OBOv-cb-8UdiZ7IleIa0-54sK5Iu0fcGb5FWYQ/edit?usp=sharing
 social:
   - title: email
     url: mailto:mail@patricknugros.com
