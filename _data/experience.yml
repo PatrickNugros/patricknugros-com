@@ -1,15 +1,28 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
-  position: Engineer
+- company: Google Developer Groups - Jakarta
+  url: https://gdgjakarta.org
+  time: 2013 - Present
+  position: Community Lead
+  description: Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology. 
+- company: Digitaraya
+  url: https://digitaraya/com
+  time: Jan 2018 - December 2019
+  position: Program Manager
+  description: Digitaraya is a world-class accelerator focused on nurturing Indonesia’s next generation of startups. 
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
-
-- company: Apple Music
+- company: Code for Indonesia
   url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
+  time: Jan 2018 - December 2019
+  position: Program Manager
+  description: Code for Indonesia is a civic-tech ecosystem and IT talents builder that aim to advance the quality and quantity of IT talents in Indonesia.
 
+- company: KIBAR
+  url: https://kibar.co.id
+  time: 2013 August - Dec 2018
+  position: Program Manager
+  description: KIBAR is a tech startup ecosystem builder in Indonesia. We produce, mentor, and nurture startups through innovation hub, tech incubator, and startup management. 
+
+- company: ArKode Studio
+  url: https://kibar.co.id
+  time: 2014 August - Dec 2016
+  position: Co-Founder & COO
+  description: Game Developer Studio focusing on casual game for mobile platform. 

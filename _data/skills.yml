@@ -24,9 +24,9 @@ tools:
   - item: Postman
   - item: MongoDB
 
-design:
-  - item: Sketch
-  - item: InDesign
+other:
+  - item: Project Management
+  - item: Design Sprint
   - item: InVision
   - item: Prototyping
   - item: Wireframing
