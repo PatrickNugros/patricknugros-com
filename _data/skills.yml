@@ -24,7 +24,7 @@ tools:
   - item: Postman
   - item: MongoDB
 
-other:
+design:
   - item: Project Management
   - item: Design Sprint
   - item: InVision
