@@ -1,22 +1,24 @@
 # Site settings
-name: Patrick Nugros
-title: Patrick Nugros | Tenaga Kerja Digital
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://patricknugros.com/
+name: Putranto Adhi Nugroho
+title: Putranto Adhi Nugroho
+description: 
+url: https://adhinugroho.com
 baseurl: ''
-email: mail@patricknugros.com
-cover: https://patricknugros.com/img/og.png
-logo: https://patricknugros.com/img/emojis/technologist.png
+email: putranto@adhinugroho.com
+cover: https://adhinugroho.com/img/og.png
+logo: https://adhinugroho.com/img/emojis/technologist.png
 resume: https://docs.google.com/document/d/1RkqY0OBOv-cb-8UdiZ7IleIa0-54sK5Iu0fcGb5FWYQ/edit?usp=sharing
 social:
   - title: email
-    url: mailto:mail@patricknugros.com
+    url: mailto:putranto@adhinugroho.com
   - title: twitter
-    url: https://twitter.com/patricknugros
+    url: https://twitter.com/putrantoan
   - title: instagram
-    url: https://instagram.com/patricknugros
+    url: https://instagram.com/putrantoan
   - title: github
-    url: https://github.com/patricknugros
+    url: https://github.com/putrantoan
+ - title: linkedin
+    url: https://www.linkedin.com/in/putranto-adhi-nugroho-82589039/
 
 # Build settings
 markdown: kramdown
