@@ -17,8 +17,6 @@ social:
     url: https://instagram.com/putrantoan
   - title: github
     url: https://github.com/putrantoan
- - title: linkedin
-    url: https://www.linkedin.com/in/putranto-adhi-nugroho-82589039/
 
 # Build settings
 markdown: kramdown
