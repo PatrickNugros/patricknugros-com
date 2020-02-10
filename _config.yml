@@ -39,3 +39,6 @@ keep_files:
 plugins_dir:
   - jekyll-minifier
   - jekyll-sitemap
+
+# Google Analytics
+google_analytics: UA-158105216-1
