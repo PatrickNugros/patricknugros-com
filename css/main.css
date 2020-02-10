@@ -705,6 +705,21 @@ strong {
     background-image: url(../img/emojis/technologist.png)
 }
 
+.intro__tagline .soccer {
+    background-image: url(../img/emojis/soccer.png)
+}
+
+.intro__tagline .basketball {
+    background-image: url(../img/emojis/basketball.png)
+}
+
+.intro__tagline .badminton {
+    background-image: url(../img/emojis/badminton.png)
+}
+
+.intro__tagline .videogame {
+    background-image: url(../img/emojis/videogame.png)
+}
 
 .intro__contact {
     font-size: 1.25rem;
