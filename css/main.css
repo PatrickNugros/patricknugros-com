@@ -721,6 +721,7 @@ strong {
     background-image: url(../img/emojis/videogame.png)
 }
 
+
 .intro__contact {
     font-size: 1.25rem;
     font-weight: 400
@@ -740,6 +741,13 @@ strong {
     vertical-align: text-bottom
 }
 
+.intro__contact .blog {
+    background-image: url(../img/emojis/blog.png);
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+    vertical-align: text-bottom
+}
 @media screen and (max-width:550px) {
     .intro__contact .emoji.pointer {
         width: 25px;
