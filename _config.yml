@@ -1,22 +1,22 @@
 # Site settings
-name: Putranto Adhi Nugroho
-title: Putranto Adhi Nugroho
-description: 
-url: https://adhinugroho.com
+name: Patrick Nugros
+title: Patrick Nugros
+description: Tenaga Kerja Digital
+url: https://patricknugros.com
 baseurl: ''
-email: putranto@adhinugroho.com
-cover: https://adhinugroho.com/img/og.png
-logo: https://adhinugroho.com/img/emojis/technologist.png
+email: mail@patricknugros.com
+cover: https://patricknugros.com/img/og.png
+logo: https://patricknugros.com/img/emojis/technologist.png
 resume: https://docs.google.com/document/d/1RkqY0OBOv-cb-8UdiZ7IleIa0-54sK5Iu0fcGb5FWYQ/edit?usp=sharing
 social:
   - title: email
-    url: mailto:putranto@adhinugroho.com
+    url: mailto:mail@patricknugros.com
   - title: twitter
-    url: https://twitter.com/putrantoan
+    url: https://twitter.com/patricknugros
   - title: instagram
-    url: https://instagram.com/putrantoan
+    url: https://instagram.com/patricknugros
   - title: github
-    url: https://github.com/putrantoan
+    url: https://github.com/patricknugros
 
 # Build settings
 markdown: kramdown
